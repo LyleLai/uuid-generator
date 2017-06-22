@@ -1,0 +1,20 @@
+{
+    "name": "LyleLai/uuid-generator",
+    "description": "Uuid Generator",
+    "keywords": ["uuid"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Lyle",
+            "homepage": "https://github.com/LyleLai/uuid-generator"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "UuidGenerator": "src/"
+        }
+    }
+}
